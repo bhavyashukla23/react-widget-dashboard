@@ -14,7 +14,7 @@ npm (Node Package Manager): Comes bundled with Node.js. Check the installation b
 
 bash
 Copy code
-### `git clone https://github.com/bhavyashukla23/react-widget-dashboard-app.git`
+### `git clone https://github.com/bhavyashukla23/react-widget-dashboard.git`
 
 Replace yourusername/your-repo with the appropriate GitHub repository URL.
 
